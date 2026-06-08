@@ -1,0 +1,4 @@
+ny_timelapse.gif filter=lfs diff=lfs merge=lfs -text
+shanghai_timelapse_morning.gif filter=lfs diff=lfs merge=lfs -text
+shanghai_timelapse_evening2.gif filter=lfs diff=lfs merge=lfs -text
+shanghai_timelapse_evening.gif filter=lfs diff=lfs merge=lfs -text
